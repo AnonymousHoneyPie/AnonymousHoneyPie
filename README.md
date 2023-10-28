@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### <3
+<img alt="piska" src="https://github.com/AnonymousHoneyPie/AnonymousHoneyPie/blob/main/my-beloved-programming.gif?raw=true" />
 <!--
 **AnonymousHoneyPie/AnonymousHoneyPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
